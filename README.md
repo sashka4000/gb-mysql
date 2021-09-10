@@ -1,1 +1,1 @@
-# gb-mysql
+GeekBrains MySQL labs
